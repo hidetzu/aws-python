@@ -1,0 +1,8 @@
+connection:
+  host: "hogehogehoge"
+  port: "6379"
+
+key_vales:
+  test: "value1"
+  test2: "value2"
+
